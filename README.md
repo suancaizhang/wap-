@@ -1,2 +1,3 @@
 # wrap页面
-# rem单位
+  rem单位
+  css/images/ 有图片 分别是anony-on.png back-arrow.png check-icon.png check-star.png ...
